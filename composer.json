@@ -1,6 +1,6 @@
 {
     "name": "cloud-castle/equifax-scoring",
-    "description": "test",
+    "description": "Библиотека для генерации xml файлов скоринг запроса в БКИ Equifax",
     "type": "library",
     "license": "MIT",
     "autoload": {
